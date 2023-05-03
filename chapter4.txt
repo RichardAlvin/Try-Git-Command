@@ -1,2 +1,4 @@
 ini adalah file keempatku
 tambahan lagi
+
+tambahan data untuk mencoba hapus commit yang sudah dipush
